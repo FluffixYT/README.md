@@ -15,7 +15,6 @@
 - 📦 Mein aktuellstes Projekt: [`HomeSystem`](https://github.com/FluffixYT/HomeSystem)  
 - 💡 Ich liebe es, neue Technologien zu entdecken & mit Code kreative Lösungen zu bauen  
 - 🛠️ Skills: Java, Kotlin, SQL, Git, Spigot/Bukkit API  
-- 📬 Kontakt: [fluffixyt@gmail.com](mailto:fluffixyt@gmail.com)
 
 ---
 
@@ -40,14 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluffixYT&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Projekte, auf die ich stolz bin
-
-- 🔧 [`HomeSystem`](https://github.com/FluffixYT/HomeSystem) – Ultimatives Home-Plugin für Minecraft-Server
-- 🧪 `DevTools` (coming soon) – Tools für Plugin-Entwicklung & Testing
-- 📂 Weitere Projekte findest du in meinen [Repositories](https://github.com/FluffixYT?tab=repositories)
 
 ---
 
